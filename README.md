@@ -1,2 +1,2 @@
 # Majora: Programming Language
-aka. HolyCMAJora++ w/ Lisps
+aka. HolyCMAJora++ w/ JavaLisps
