@@ -1,2 +1,2 @@
 # Majora: Programming Language
-aka. HolyCMAJora++ w/ JAdaLisps
+aka. HolyCMAJora++ w/ JAdaLisps & PyModulas
